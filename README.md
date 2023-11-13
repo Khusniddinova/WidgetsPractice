@@ -4,6 +4,7 @@ full description for each step:
 This is a Flutter project called WidgetsPractice. It demonstrates how to create and use both Stateless and Stateful Widgets, 
 and how to create a widget tree at least 3 levels deep. It also demonstrates how to style widgets and test the app.
 To Run the Project
+
 1. I installed Flutter and Dart.
 2.Created a new file named greeting.dart inside the lib folder. This widget will display a greeting message passed as a parameter.
 3.In main.dart file, I used the GreetingWidget with different messages
