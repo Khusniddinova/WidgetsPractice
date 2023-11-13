@@ -23,12 +23,12 @@ class _CounterWidgetState extends State<CounterWidget> {
         children: [
           Text(
             'Counter: $count',
-            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
 
           ElevatedButton(
             onPressed: incrementCounter,
-            child: Text('Increment'),
+            child: Text('add'),
           ),
         ],
       ),
