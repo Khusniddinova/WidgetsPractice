@@ -10,7 +10,7 @@ class GreetingWidget extends StatelessWidget{
   Widget build(BuildContext context) {
     return Text(
       message,
-      style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.pink),
+      style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.green),
     );
   }
 
