@@ -6,7 +6,7 @@ void main(){
     home: Scaffold(
       body:  Column(
         children: [
-          GreetingWidget(message: 'Hello, guys:)'),
+          GreetingWidget(message: 'Hello, friends:)'),
           // CounterWidget(),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
